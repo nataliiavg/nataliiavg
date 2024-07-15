@@ -1,4 +1,4 @@
-### ✨ Olá, eu sou a Natalia! 🙋‍♀️
+### Olá, eu sou a Natalia! 🙋‍♀️
 
 
 <p> 👩‍🎓 Formada em Engenharia de Software</p>
