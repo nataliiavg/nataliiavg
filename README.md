@@ -2,7 +2,7 @@
 
 
 <p> 👩‍🎓 Formada em Engenharia de Software</p>
-
+<p> 📚 Leitora assídua e super-fã de Tolkien 🧝 e Isaac Asimov 🤖 </p>
 
 ## Contatos:
 <div>
